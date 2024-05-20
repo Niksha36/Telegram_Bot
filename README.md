@@ -1,6 +1,6 @@
 # Telegram Bot - MLWiki
 
-This bot will help you start your journey in learning Machine Learning.
+This [bot](https://web.telegram.org/k/#@ML_WiKi_bot) will help you start your journey in learning Machine Learning.
 
 ---
 
